@@ -1,0 +1,40 @@
+#outer_box{
+    position: absolute ;
+    background-color: black;
+    height: 300px;
+    width: 90px;
+    left: 200px;
+    
+}
+.circle{
+    margin: 30%;
+    margin-top: 100px;
+    background-color: white;
+    height: 30px;
+    width: 30px;
+    padding-top: 2%;
+    border-radius: 50%;
+    
+
+}
+#first_circle{
+    background-color: red;
+    position: relative;
+    bottom: 3em;
+}
+#second_circle{
+    background-color: yellow;
+    position: relative;
+    bottom: 6em;
+
+}
+#third_circle{
+    background-color: green;
+    position: relative;
+    bottom: 9em;
+}
+body{
+    background-image: url("https://images.pexels.com/photos/56832/road-asphalt-space-sky-56832.jpeg?cs=srgb&dl=pexels-pixabay-56832.jpg&fm=jpg") ;
+    background-size: cover;
+    /* background-repeat: no-repeat; */
+}

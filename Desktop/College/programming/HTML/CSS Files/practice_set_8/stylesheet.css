@@ -1,0 +1,21 @@
+body{
+    background-color: black;
+}
+.loader{
+    width: 200px;
+    height: 200px;
+    border: 10px solid ;
+    border-left: 10px solid white;
+    border-radius: 50%;
+    animation-name: rotate;
+    animation-duration: 0.00001s;
+    animation-timing-function:linear;
+    animation-delay: 0s;
+    animation-iteration-count: infinite;
+    animation-direction: normal;
+
+}
+@keyframes rotate{
+    from{ transform: rotate(0deg);}
+    to{ transform: rotate(360deg);}
+}

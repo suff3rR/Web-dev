@@ -1,0 +1,13 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+div{
+    height: 100px;
+    width: 100px;
+    background-image: url(https://images.pexels.com/photos/56832/road-asphalt-space-sky-56832.jpeg?cs=srgb&dl=pexels-pixabay-56832.jpg&fm=jpg);
+    background-size:cover;
+    position: fixed;
+    bottom: 0px;
+    right: 0px;
+}   

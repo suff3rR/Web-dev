@@ -1,0 +1,25 @@
+/* *{
+    margin: 0px;
+    padding: 0px;
+}
+.divs{
+    background-color: blue;
+    height: 100px;
+    width: 100px;
+    display: inline-block;
+    margin-right: 100px;
+    margin-left: 50px;
+    margin-top: 200px;
+    border: 10px solid black;
+}
+.main{
+    height: 644px;
+}
+#footer{
+    background-color: black;
+    text-align: center;
+} */
+#box1{
+    position: relative;
+    top: 50px;
+}

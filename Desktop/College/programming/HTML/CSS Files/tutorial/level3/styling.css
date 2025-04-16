@@ -1,0 +1,18 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+div{
+    background-color: pink;
+    height: 50px;
+    width: 50px;
+    display: inline-block;
+    margin-top: 100px;
+    margin-left: 100px;
+}
+#box1{
+    position: relative;
+    top: 10px;
+    left: 1000px;
+    
+}
